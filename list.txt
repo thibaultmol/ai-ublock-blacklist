@@ -307,6 +307,13 @@
 ||vanessa-mae.com.ar^$doc
 ||viegener.com.ar^$doc
 ||ypfelcruce.com.ar^$doc
+||saludymovimiento.com.ar^$doc
+||broccolino.com.ar^$doc
+||green-life.com.ar^$doc
+||libreriafan.com.ar^$doc
+||radiotaxisyremises.com.ar^$doc
+||yogacongreso.com.ar^$doc
+||solaringenieria.com.ar^$doc
 
 ! https://github.com/alvi-se/ai-ublock-blacklist/pull/11
 ||abasstoriola.com^$doc
